@@ -1,2 +1,2 @@
 # Pasazerskie_Linie_Lotnicze
-Aplikacja obsługująca system pasażerskich linii lotniczych komunikująca się z bazą danych.
+Application supporting passenger airline system communicating with a data base.
